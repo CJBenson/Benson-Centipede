@@ -1,0 +1,54 @@
+Wave 1
+Flea Spawner Active: false;
+Scorpion Spawner Active: false;
+Spider Spawner Active: true;
+Centipede Speed: 2.0;
+Solo Heads: 0;
+Number of Segments: 12;
+Scorpion Frequency: 10.0;
+Spider Frequency: 14.0;
+Minimum Shrooms for Flea Spawning: 4;
+
+Wave 2
+Flea Spawner Active: true;
+Scorpion Spawner Active: false;
+Spider Spawner Active: true;
+Centipede Speed: 2.0;
+Solo Heads: 1;
+Number of Segments: 11;
+Scorpion Frequency: 10.0;
+Spider Frequency: 14.0;
+Minimum Shrooms for Flea Spawning: 4;
+
+Wave 3
+Flea Spawner Active: true;
+Scorpion Spawner Active: true;
+Spider Spawner Active: true;
+Centipede Speed: 2.0;
+Solo Heads: 2;
+Number of Segments: 10;
+Scorpion Frequency: 10.0;
+Spider Frequency: 12.0;
+Minimum Shrooms for Flea Spawning: 4;
+
+Wave 4
+Flea Spawner Active: true;
+Scorpion Spawner Active: true;
+Spider Spawner Active: true;
+Centipede Speed: 2.0;
+Solo Heads: 3;
+Number of Segments: 9;
+Scorpion Frequency: 10.0;
+Spider Frequency: 12.0;
+Minimum Shrooms for Flea Spawning: 4;
+
+Wave 5
+Flea Spawner Active: true;
+Scorpion Spawner Active: true;
+Spider Spawner Active: true;
+Centipede Speed: 2.0;
+Solo Heads: 4;
+Number of Segments: 8;
+Scorpion Frequency: 10.0;
+Spider Frequency: 12.0;
+Minimum Shrooms for Flea Spawning: 4;

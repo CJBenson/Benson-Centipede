@@ -1,0 +1,37 @@
+// KeyEventTest
+// Andre Berthiaume, March 2013
+// July 2019: memory clean up
+
+#include "KeyEventTest.h"
+
+KeyEventTest::KeyEventTest()
+{
+	//myfont = ResourceManager::GetFont("MyDefaultFont");
+	//myString = "This last key you pressed has code: ";
+
+	//myText = sf::Text( myString, myfont, 20);
+	//myText.setFillColor( sf::Color::Yellow );
+	//myText.setPosition( 50, 50 );
+	//
+	//RegisterInput( InputFlags::KeyPressed | InputFlags::KeyReleased );
+}
+
+//void KeyEventTest::Destory()
+//{
+//	DeregisterInput(); 
+//}
+//
+//void KeyEventTest::Draw()
+//{
+//	WindowManager::Window().draw(myText);
+//}
+//
+//void KeyEventTest::KeyPressed(sf::Keyboard::Key k, bool altKey, bool ctrlKey, bool shiftKey, bool systemKey)
+//{
+//	myText.setString( myString + Tools::ToString(k) );
+//}
+//
+//void KeyEventTest::KeyReleased(sf::Keyboard::Key k, bool altKey, bool ctrlKey, bool shiftKey, bool systemKey)
+//{
+//	myText.setString( myString );
+//}

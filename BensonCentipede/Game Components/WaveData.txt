@@ -1,0 +1,22 @@
+Wave 1
+Flea Spawner Active: false;
+Scorpion Spawner Active: false;
+Spider Spawner Active: true;
+Centipede Speed: 4.0;
+Solo Heads: 0;
+Number of Segments: 12;
+Scorpion Frequency: 10.0;
+Spider Frequency: 7.0;
+Minimum Shrooms for Flea Spawning: 3;
+-----------------------------------------------
+
+Wave 2
+Flea Spawner Active: true;
+Scorpion Spawner Active: false;
+Spider Spawner Active: true;
+Centipede Speed: 2.0;
+Solo Heads: 1;
+Number of Segments: 11;
+Scorpion Frequency: 10.0;
+Spider Frequency: 7.0;
+Minimum Shrooms for Flea Spawning: 3;
